@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Meal Planner</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+
+  <h1 class="menu-title">Weekly Meal Planner</h1>
+
+  <!-- Search Section -->
+  <section id="search">
+    <input type="text" id="ingredientInput" placeholder="Enter ingredient..." />
+    <button id="searchBtn">Search Meals</button>
+  </section>
+
+  <!-- Search Results -->
+  <section id="mealResults"></section>
+
+  <!-- Weekly Meal Plan -->
+  <section id="weeklyPlan">
+    <div id="mealPlanGrid" class="week-grid"></div>
+  </section>
+
+  <!-- Generate Shopping List -->
+  <section>
+    <button onclick="generateShoppingList()">Generate Shopping List</button>
+  </section>
+
+  <!-- Shopping List Display -->
+  <section id="shoppingList" style="display: none;">
+    <div id="shoppingListContent" class="day-card"></div>
+  </section>
+
+  <script src="index.js"></script>
+</body>
+</html>   

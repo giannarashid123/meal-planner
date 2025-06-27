@@ -1,0 +1,147 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "name": "fried spaghetti",
+      "image": "https://media.istockphoto.com/id/1442924073/photo/vegan-stir-fry-egg-noodles-with-vegetables-paprika-mushrooms-chives-and-sesame-seeds-in-bowl.jpg?s=1024x1024&w=is&k=20&c=P_npAyE6FhqrCNTs6Ha4aZ5mfuUYf-848Ct4BjZVeMQ=",
+      "ingredients": [
+        { "name": "Spaghetti", "measure": "200g" },
+        { "name": "onions", "measure": "2 medium" },
+        { "name": "tomatoes", "measure": "3 medium" },
+        { "name": "Bacon", "measure": "100g" },
+        {"name": "garlic", "measure": "1"},
+        {"name": "corriander", "measure": "1"},
+        {"name": "pepper", "measure":"green,red,yellow 1 piece each"},
+        {"name": "salt", "measure":"2 tablespoons"},
+        {"name": "water", "measure":"2l"},
+        {"name": "cooking oil", "measure":"3 tablespoons"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chicken Curry",
+      "image": "https://burmawalakitchen.com/wp-content/uploads/2024/07/Chicken-Curry-no-onions-1.jpg",
+      "ingredients": [
+        { "name": "Chicken", "measure": "300g" },
+        { "name": "Curry Powder", "measure": "2 tbsp" },
+        { "name": "Coconut Milk", "measure": "400ml" },
+        {"name":"corriander", "measure":"1"},
+        {"name":"onions", "measure":"2 medium"},
+        {"name":"tomatoes", "measure":"2 medium"},
+        {"name":"tumeric powder", "measure":"1/2 tablespoon"},
+        {"name":"water", "measure": "1 cup"}
+      ]
+    },
+    {
+       "id": 3,
+    "name": "Grilled Salmon with Veggies",
+    "image": "https://www.cookingclassy.com/wp-content/uploads/2018/05/grilled-salmon-3.jpg",
+    "ingredients": [
+      { "name": "Salmon Fillet", "measure": "2 pieces (150g each)" },
+      { "name": "Broccoli", "measure": "1 cup" },
+      { "name": "Carrots", "measure": "1 cup sliced" },
+      { "name": "Olive Oil", "measure": "2 tbsp" },
+      { "name": "Lemon Juice", "measure": "1 tbsp" },
+      { "name": "Salt", "measure": "to taste" },
+      { "name": "Black Pepper", "measure": "1/2 tsp" }
+    ] 
+    },
+    {
+        "id": 4,
+    "name": "Vegetable Stir Fry with Rice",
+    "image": "https://therecipecritic.com/wp-content/uploads/2019/08/vegetable_stir_fry.jpg",
+    "ingredients": [
+      { "name": "Cooked Rice", "measure": "2 cups" },
+      { "name": "Bell Peppers", "measure": "1 cup sliced" },
+      { "name": "Zucchini", "measure": "1 cup chopped" },
+      { "name": "Soy Sauce", "measure": "2 tbsp" },
+      { "name": "Garlic", "measure": "2 cloves" },
+      { "name": "Sesame Oil", "measure": "1 tbsp" },
+      { "name": "Spring Onions", "measure": "1/4 cup" }
+    ]
+    },
+    {
+         "id": 5,
+    "name": "Lentil Soup with Flatbread",
+    "image": "https://res.cloudinary.com/hellochef/image/upload/c_scale,w_1084/dpr_2.0/f_webp/q_auto/c_scale,w_380/om7uny9ceasknsb5savc?_a=DATAdtAAZAA0",
+    "ingredients": [
+      { "name": "Brown Lentils", "measure": "1 cup" },
+      { "name": "Carrots", "measure": "2 chopped" },
+      { "name": "Celery", "measure": "2 stalks" },
+      { "name": "Onions", "measure": "1 medium" },
+      { "name": "Vegetable Stock", "measure": "4 cups" },
+      { "name": "Cumin Powder", "measure": "1 tsp" },
+      { "name": "Olive Oil", "measure": "2 tbsp" },
+      { "name": "Flatbread", "measure": "2 pieces" }
+    ]
+    },
+    {"id": 6,
+    "name": "Egg Fried Rice",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeyNBUBooHqQRxDBAOTzk1BYYG-y-PR7oKA&s",
+    "ingredients": [
+      { "name": "Cooked Rice", "measure": "2 cups" },
+      { "name": "Eggs", "measure": "2" },
+      { "name": "Green Peas", "measure": "1/2 cup" },
+      { "name": "Carrots", "measure": "1/2 cup diced" },
+      { "name": "Soy Sauce", "measure": "2 tbsp" },
+      { "name": "Spring Onions", "measure": "1/4 cup" },
+      { "name": "Oil", "measure": "2 tbsp" }
+    ]
+ },
+ {
+    "id": 7,
+    "name": "Ugali,Beef and Vegetable Stew",
+    "image": "https://i.ytimg.com/vi/6mRp8ntFqXs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6Kpn02ETV2mVyDqzIcjvkY4ao1g",
+    "ingredients": [
+      { "name": "Beef Cubes", "measure": "400g" },
+      { "name": "Potatoes", "measure": "2 medium" },
+      { "name": "Carrots", "measure": "2" },
+      { "name": "Onions", "measure": "1 large" },
+      { "name": "Beef Stock", "measure": "3 cups" },
+      { "name": "Garlic", "measure": "3 cloves" },
+      { "name": "Thyme", "measure": "1 tsp" },
+      { "name": "Salt", "measure": "to taste" },
+      {"name":"ugali","measure":"2 slices"}
+    ]
+ }
+  
+    ],
+  "mealPlan": [
+    {
+      "id": 1,
+      "day": "Monday",
+      "mealId": 1
+    },
+    {
+      "id": 2,
+      "day": "Tuesday",
+      "mealId": 2
+    },
+    {
+        "id": 3,
+        "day": "Wednesday",
+        "mealId": 3
+    },
+    {
+        "id": 4,
+        "day": "Thursday",
+        "mealId": 4
+    },
+{
+    "id": 5,
+    "day": "Friday",
+    "mealId": 5
+},
+{
+    "id": 6,
+    "day": "Saturday",
+    "mealId": 6
+},
+{
+    "id": 7,
+    "day": "Sunday",
+    "mealId": 7
+    
+}
+  ]
+}
