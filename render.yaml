@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: meal-planner-api
+    env: node
+    buildCommand: ""
+    startCommand: json-server --watch db.json --port 10000
+    plan: free
+    envVars:
+      - key: PORT
+        value: 10000
+    autoDeploy: true
