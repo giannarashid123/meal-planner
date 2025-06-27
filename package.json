@@ -1,0 +1,23 @@
+{
+  "name": "meal-planner",
+  "version": "1.0.0",
+  "description": "A simple meal planner app using HTML, CSS, JS, and JSON Server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "keywords": [
+    "meal",
+    "planner",
+    "json-server",
+    "frontend",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
