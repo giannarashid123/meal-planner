@@ -1,0 +1,35 @@
+# 🥗 Meal Planner Web App
+
+A simple web-based meal planner that allows users to:
+- Search and View weekly meals suggestion with beautiful images
+- Search meals by ingredients used
+
+---
+
+## 🚀 Features
+
+✅ Search meals by any ingredient  
+✅ Display meals with images in a neat card layout  
+✅ Click a meal to view all its ingredients  
+
+---
+
+## Languages Used
+
+- HTML
+- CSS
+- JavaScript 
+- [JSON Server](https://github.com/typicode/json-server) for backend
+
+---
+
+## 📁 Project Structure
+
+```plaintext
+meal-planner/
+│
+├── db.json                # Fake backend data (meals and meal plan)
+├── index.html             # Main HTML file
+├── styles.css             # Styling for the app
+├── index.js               # Main JavaScript logic
+└── README.md              # Project description
